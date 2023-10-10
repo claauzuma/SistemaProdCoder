@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.11" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SistemaGestionData\SistemaGestionData.csproj" />
+    <ProjectReference Include="..\SistemaGestionEntidades\SistemaGestionEntidades.csproj" />
+    <ProjectReference Include="..\SistemaGestionNegocios\SistemaGestionNegocios.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="formEditarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formModificarProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+
+</Project>
