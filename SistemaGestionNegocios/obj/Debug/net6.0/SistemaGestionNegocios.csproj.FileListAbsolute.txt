@@ -36,3 +36,22 @@ C:\Users\zumar\Desktop\CoderhouseProyecto\SistemaGestionNegocios\obj\Debug\net6.
 C:\Users\zumar\Desktop\CoderhouseProyecto\SistemaGestionNegocios\obj\Debug\net6.0\SistemaGestionNegocios.pdb
 C:\Users\zumar\Desktop\CoderhouseProyecto\SistemaGestionNegocios\obj\Debug\net6.0\SistemaGestionNegocios.genruntimeconfig.cache
 C:\Users\zumar\Desktop\CoderhouseProyecto\SistemaGestionNegocios\obj\Debug\net6.0\ref\SistemaGestionNegocios.dll
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionNegocios\bin\Debug\net6.0\SistemaGestionNegocios.deps.json
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionNegocios\bin\Debug\net6.0\SistemaGestionNegocios.runtimeconfig.json
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionNegocios\bin\Debug\net6.0\SistemaGestionNegocios.dll
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionNegocios\bin\Debug\net6.0\SistemaGestionNegocios.pdb
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionNegocios\bin\Debug\net6.0\SistemaGestionData.dll
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionNegocios\bin\Debug\net6.0\SistemaGestionEntidades.dll
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionNegocios\bin\Debug\net6.0\SistemaGestionData.pdb
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionNegocios\bin\Debug\net6.0\SistemaGestionEntidades.pdb
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionNegocios\obj\Debug\net6.0\SistemaGestionNegocios.csproj.AssemblyReference.cache
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionNegocios\obj\Debug\net6.0\SistemaGestionNegocios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionNegocios\obj\Debug\net6.0\SistemaGestionNegocios.AssemblyInfoInputs.cache
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionNegocios\obj\Debug\net6.0\SistemaGestionNegocios.AssemblyInfo.cs
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionNegocios\obj\Debug\net6.0\SistemaGestionNegocios.csproj.CoreCompileInputs.cache
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionNegocios\obj\Debug\net6.0\SistemaGestionNegocios.csproj.CopyComplete
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionNegocios\obj\Debug\net6.0\SistemaGestionNegocios.dll
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionNegocios\obj\Debug\net6.0\refint\SistemaGestionNegocios.dll
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionNegocios\obj\Debug\net6.0\SistemaGestionNegocios.pdb
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionNegocios\obj\Debug\net6.0\SistemaGestionNegocios.genruntimeconfig.cache
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionNegocios\obj\Debug\net6.0\ref\SistemaGestionNegocios.dll

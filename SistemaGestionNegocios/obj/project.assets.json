@@ -3178,11 +3178,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto\\SistemaGestionNegocios\\SistemaGestionNegocios.csproj",
+      "projectUniqueName": "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto - copia\\SistemaGestionNegocios\\SistemaGestionNegocios.csproj",
       "projectName": "SistemaGestionNegocios",
-      "projectPath": "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto\\SistemaGestionNegocios\\SistemaGestionNegocios.csproj",
+      "projectPath": "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto - copia\\SistemaGestionNegocios\\SistemaGestionNegocios.csproj",
       "packagesPath": "C:\\Users\\zumar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto\\SistemaGestionNegocios\\obj\\",
+      "outputPath": "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto - copia\\SistemaGestionNegocios\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3199,11 +3199,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto\\SistemaGestionData\\SistemaGestionData.csproj": {
-              "projectPath": "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto\\SistemaGestionData\\SistemaGestionData.csproj"
+            "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto - copia\\SistemaGestionData\\SistemaGestionData.csproj": {
+              "projectPath": "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto - copia\\SistemaGestionData\\SistemaGestionData.csproj"
             },
-            "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto\\SistemaGestionEntidades\\SistemaGestionEntidades.csproj": {
-              "projectPath": "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto\\SistemaGestionEntidades\\SistemaGestionEntidades.csproj"
+            "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto - copia\\SistemaGestionEntidades\\SistemaGestionEntidades.csproj": {
+              "projectPath": "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto - copia\\SistemaGestionEntidades\\SistemaGestionEntidades.csproj"
             }
           }
         }

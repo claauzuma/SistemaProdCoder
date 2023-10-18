@@ -21,6 +21,7 @@ public static class ProductoBusiness
 
     public static void CrearProducto(string desc, decimal costo, decimal precioVta, decimal stock, decimal IDusu)
     {
+        
         using (var context = new SistemaGestionContexto())
         {
             var producto = new Producto
@@ -40,9 +41,16 @@ public static class ProductoBusiness
 
     public static void eliminarProducto(Producto producto)
     {
-        SistemaGestionContexto context = new SistemaGestionContexto();
-        context.Productos.Remove(producto);
-        context.SaveChanges();
+        try {
+            SistemaGestionContexto context = new SistemaGestionContexto();
+            context.Productos.Remove(producto);
+            context.SaveChanges();
+        } catch (
+        Exception ex) {
+            Console.WriteLine(ex.Message);
+        
+        }
+      
     }
 
     public static void modificarProducto(int id, string desc, decimal costo, decimal precioVenta, decimal stock, decimal IDusuario)
@@ -59,8 +67,53 @@ public static class ProductoBusiness
 
     public static List<Producto> Listar()
     {
-       var db = new SistemaGestionContexto();
-       var productos = db.Productos.OrderBy(p => p.Id).ToList();
-       return productos;
+            var db = new SistemaGestionContexto();
+            var productos = db.Productos.OrderBy(p => p.Id).ToList();
+        return productos;   
+       
+    }
+
+    public static void eliminarProducto(int id)
+    {
+        try {
+            var productoAEliminar = buscarProdPorId(id);
+         
+                SistemaGestionContexto context = new SistemaGestionContexto();
+                context.Productos.Remove(productoAEliminar);
+                context.SaveChanges();
+ 
+        } catch (Exception ex) {
+            Console.WriteLine(ex.Message);
+        }
+        
+    }
+
+    public static void modificarProducto(Producto producto)
+    {
+        try {
+          
+                SistemaGestionContexto context = new SistemaGestionContexto();
+                var productoAModificar = buscarProdPorId(producto.Id);
+                productoAModificar = producto;
+                context.SaveChanges();
+            
+        } catch (Exception ex) {
+            Console.WriteLine(ex.Message);  
+        }
+       
+    }
+
+    public static void CrearProducto(Producto producto)
+    {
+        try {
+            SistemaGestionContexto context = new SistemaGestionContexto();
+                context.Productos.Add(producto);
+                context.SaveChanges();
+            
+        } catch (Exception ex) {
+            Console.WriteLine(ex.Message);
+        }
+        
+
     }
 }

@@ -213,17 +213,19 @@ namespace SistemaGestionEntityFramework
 
             }
 
-            catch (Exception ex) {
+            catch (Exception ex)
+            {
                 Console.WriteLine(ex.Message);
             }
-                
 
-            }
-            
+
+        }
+
 
         private void dataUsuarios_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-            try {
+            try
+            {
                 if (e.RowIndex == -1 || e.ColumnIndex == -1) return;
 
                 if (this.dataUsuarios.Columns[e.ColumnIndex].Name == "EditarU")
@@ -255,12 +257,13 @@ namespace SistemaGestionEntityFramework
                 }
 
             }
-            catch(Exception ex) { 
-                Console.WriteLine(ex.Message);  
-            
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+
             }
 
-            
+
 
         }
 
@@ -303,28 +306,72 @@ namespace SistemaGestionEntityFramework
 
 
             }
-            catch (Exception ex) {
+            catch (Exception ex)
+            {
                 Console.WriteLine(ex.Message);
             }
-            
+
 
         }
 
 
         private void botonBuscarUsuarios_Click(object sender, EventArgs e)
         {
-            try {
+            try
+
+            {
                 dataUsuarios.DataSource = null;
-                var usuarios = UsuarioBusiness.buscarUsuariosPorNombre(inputBuscarUsuario.Text);
-                dataUsuarios.DataSource = usuarios;
+
+                if (inputBuscarNombre.Text == "")
+                {
+                   
+                    var usuarios = UsuarioBusiness.buscarUsuariosPorNombre(inputBuscarUsuario.Text);
+                    dataUsuarios.DataSource = usuarios;
+                }
+                else {
+                    var usuarios = UsuarioBusiness.buscarUsuariosPorNombreyUsuario(inputBuscarNombre.Text,inputBuscarUsuario.Text);
+                    dataUsuarios.DataSource = usuarios;
+                   
+                
+                }
+               
+
             }
-            catch(Exception ex) { 
-                Console.WriteLine(ex.Message);  
-            
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+
             }
         }
 
         private void Usuarios_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label15_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void botonBuscarNombre_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                
+                dataUsuarios.DataSource = null;
+                var usuarios = UsuarioBusiness.buscarUsuariosPorNombreYApellido(inputBuscarNombre.Text);
+                dataUsuarios.DataSource = usuarios;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+
+            }
+
+        }
+
+        private void inputBuscarUsuario_TextChanged(object sender, EventArgs e)
         {
 
         }

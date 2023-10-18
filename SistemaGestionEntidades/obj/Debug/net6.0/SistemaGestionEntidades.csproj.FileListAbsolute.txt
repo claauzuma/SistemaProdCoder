@@ -22,3 +22,15 @@ C:\Users\zumar\Desktop\CoderhouseProyecto\SistemaGestionEntidades\obj\Debug\net6
 C:\Users\zumar\Desktop\CoderhouseProyecto\SistemaGestionEntidades\obj\Debug\net6.0\refint\SistemaGestionEntidades.dll
 C:\Users\zumar\Desktop\CoderhouseProyecto\SistemaGestionEntidades\obj\Debug\net6.0\SistemaGestionEntidades.pdb
 C:\Users\zumar\Desktop\CoderhouseProyecto\SistemaGestionEntidades\obj\Debug\net6.0\ref\SistemaGestionEntidades.dll
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionEntidades\bin\Debug\net6.0\SistemaGestionEntidades.deps.json
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionEntidades\bin\Debug\net6.0\SistemaGestionEntidades.dll
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionEntidades\bin\Debug\net6.0\SistemaGestionEntidades.pdb
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionEntidades\obj\Debug\net6.0\SistemaGestionEntidades.csproj.AssemblyReference.cache
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionEntidades\obj\Debug\net6.0\SistemaGestionEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionEntidades\obj\Debug\net6.0\SistemaGestionEntidades.AssemblyInfoInputs.cache
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionEntidades\obj\Debug\net6.0\SistemaGestionEntidades.AssemblyInfo.cs
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionEntidades\obj\Debug\net6.0\SistemaGestionEntidades.csproj.CoreCompileInputs.cache
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionEntidades\obj\Debug\net6.0\SistemaGestionEntidades.dll
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionEntidades\obj\Debug\net6.0\refint\SistemaGestionEntidades.dll
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionEntidades\obj\Debug\net6.0\SistemaGestionEntidades.pdb
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionEntidades\obj\Debug\net6.0\ref\SistemaGestionEntidades.dll

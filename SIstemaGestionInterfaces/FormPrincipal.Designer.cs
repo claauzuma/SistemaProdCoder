@@ -30,6 +30,9 @@
         {
             dataProductosVendidos = new TabControl();
             Usuarios = new TabPage();
+            label15 = new Label();
+            botonBuscarNombre = new Button();
+            inputBuscarNombre = new TextBox();
             botonBuscarUsuarios = new Button();
             label8 = new Label();
             inputBuscarUsuario = new TextBox();
@@ -117,6 +120,9 @@
             // 
             // Usuarios
             // 
+            Usuarios.Controls.Add(label15);
+            Usuarios.Controls.Add(botonBuscarNombre);
+            Usuarios.Controls.Add(inputBuscarNombre);
             Usuarios.Controls.Add(botonBuscarUsuarios);
             Usuarios.Controls.Add(label8);
             Usuarios.Controls.Add(inputBuscarUsuario);
@@ -142,6 +148,34 @@
             Usuarios.Text = "Usuarios";
             Usuarios.UseVisualStyleBackColor = true;
             Usuarios.Click += Usuarios_Click;
+            // 
+            // label15
+            // 
+            label15.AutoSize = true;
+            label15.Location = new Point(606, 17);
+            label15.Name = "label15";
+            label15.Size = new Size(89, 15);
+            label15.TabIndex = 20;
+            label15.Text = "Buscar Nombre";
+            label15.Click += label15_Click;
+            // 
+            // botonBuscarNombre
+            // 
+            botonBuscarNombre.Location = new Point(888, 13);
+            botonBuscarNombre.Name = "botonBuscarNombre";
+            botonBuscarNombre.Size = new Size(83, 23);
+            botonBuscarNombre.TabIndex = 19;
+            botonBuscarNombre.Text = "Buscar";
+            botonBuscarNombre.UseVisualStyleBackColor = true;
+            botonBuscarNombre.Click += botonBuscarNombre_Click;
+            // 
+            // inputBuscarNombre
+            // 
+            inputBuscarNombre.Font = new Font("Segoe UI", 9.75F, FontStyle.Regular, GraphicsUnit.Point);
+            inputBuscarNombre.Location = new Point(697, 12);
+            inputBuscarNombre.Name = "inputBuscarNombre";
+            inputBuscarNombre.Size = new Size(185, 25);
+            inputBuscarNombre.TabIndex = 18;
             // 
             // botonBuscarUsuarios
             // 
@@ -169,6 +203,7 @@
             inputBuscarUsuario.Name = "inputBuscarUsuario";
             inputBuscarUsuario.Size = new Size(185, 25);
             inputBuscarUsuario.TabIndex = 15;
+            inputBuscarUsuario.TextChanged += inputBuscarUsuario_TextChanged;
             // 
             // botonCrearUsuario
             // 
@@ -711,5 +746,8 @@
         private Label label8;
         private TextBox inputBuscarUsuario;
         private Button botonBuscarUsuarios;
+        private TextBox inputBuscarNombre;
+        private Label label15;
+        private Button botonBuscarNombre;
     }
 }

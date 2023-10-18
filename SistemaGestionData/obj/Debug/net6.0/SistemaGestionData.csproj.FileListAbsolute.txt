@@ -32,3 +32,20 @@ C:\Users\zumar\Desktop\CoderhouseProyecto\SistemaGestionData\obj\Debug\net6.0\re
 C:\Users\zumar\Desktop\CoderhouseProyecto\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.pdb
 C:\Users\zumar\Desktop\CoderhouseProyecto\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.genruntimeconfig.cache
 C:\Users\zumar\Desktop\CoderhouseProyecto\SistemaGestionData\obj\Debug\net6.0\ref\SistemaGestionData.dll
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.deps.json
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.runtimeconfig.json
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.dll
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.pdb
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionData\bin\Debug\net6.0\SistemaGestionEntidades.dll
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionData\bin\Debug\net6.0\SistemaGestionEntidades.pdb
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.AssemblyReference.cache
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfoInputs.cache
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfo.cs
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.CoreCompileInputs.cache
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.CopyComplete
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.dll
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionData\obj\Debug\net6.0\refint\SistemaGestionData.dll
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.pdb
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.genruntimeconfig.cache
+C:\Users\zumar\Desktop\CoderhouseProyecto - copia\SistemaGestionData\obj\Debug\net6.0\ref\SistemaGestionData.dll

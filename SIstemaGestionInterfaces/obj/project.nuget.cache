@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "neebVBZlpxLWo3m3UVkgnCC3+E3T6ws8C9fn0ofo22r+tqVtfFjs/u1WApGV0VCCGiNDBOL8yVdDmPEOV3o65A==",
+  "dgSpecHash": "FCMbGJu3uv+PuyeNexKdXrvSnCNyHud+uEkryQfB08qxt0OCKGO7gAHsu/fkoyUwOhyPTdBYVRXlJ7Ym6o0/GQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto\\SIstemaGestionInterfaces\\SIstemaGestionInterfaces.csproj",
+  "projectFilePath": "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto - copia\\SIstemaGestionInterfaces\\SIstemaGestionInterfaces.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zumar\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\zumar\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

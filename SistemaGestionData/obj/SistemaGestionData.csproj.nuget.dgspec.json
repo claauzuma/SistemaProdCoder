@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto\\SistemaGestionData\\SistemaGestionData.csproj": {}
+    "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto - copia\\SistemaGestionData\\SistemaGestionData.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto\\SistemaGestionData\\SistemaGestionData.csproj": {
+    "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto - copia\\SistemaGestionData\\SistemaGestionData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto\\SistemaGestionData\\SistemaGestionData.csproj",
+        "projectUniqueName": "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto - copia\\SistemaGestionData\\SistemaGestionData.csproj",
         "projectName": "SistemaGestionData",
-        "projectPath": "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto\\SistemaGestionData\\SistemaGestionData.csproj",
+        "projectPath": "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto - copia\\SistemaGestionData\\SistemaGestionData.csproj",
         "packagesPath": "C:\\Users\\zumar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto\\SistemaGestionData\\obj\\",
+        "outputPath": "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto - copia\\SistemaGestionData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto\\SistemaGestionEntidades\\SistemaGestionEntidades.csproj": {
-                "projectPath": "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto\\SistemaGestionEntidades\\SistemaGestionEntidades.csproj"
+              "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto - copia\\SistemaGestionEntidades\\SistemaGestionEntidades.csproj": {
+                "projectPath": "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto - copia\\SistemaGestionEntidades\\SistemaGestionEntidades.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto\\SistemaGestionEntidades\\SistemaGestionEntidades.csproj": {
+    "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto - copia\\SistemaGestionEntidades\\SistemaGestionEntidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto\\SistemaGestionEntidades\\SistemaGestionEntidades.csproj",
+        "projectUniqueName": "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto - copia\\SistemaGestionEntidades\\SistemaGestionEntidades.csproj",
         "projectName": "SistemaGestionEntidades",
-        "projectPath": "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto\\SistemaGestionEntidades\\SistemaGestionEntidades.csproj",
+        "projectPath": "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto - copia\\SistemaGestionEntidades\\SistemaGestionEntidades.csproj",
         "packagesPath": "C:\\Users\\zumar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto\\SistemaGestionEntidades\\obj\\",
+        "outputPath": "C:\\Users\\zumar\\Desktop\\CoderhouseProyecto - copia\\SistemaGestionEntidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
